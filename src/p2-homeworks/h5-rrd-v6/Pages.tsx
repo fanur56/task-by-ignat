@@ -1,7 +1,7 @@
 import React from 'react'
 import { Route, Navigate, Routes } from 'react-router-dom'
-import PreJunior from "../h5/pages/PreJunior";
-import Error404 from "../h5/pages/Error404";
+import PreJunior from "./pages/PreJunior";
+import Error404 from "./pages/Error404";
 import Junior from "./pages/Junior";
 import JuniorPlus from "./pages/JuniorPlus";
 

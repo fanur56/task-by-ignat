@@ -2,6 +2,7 @@
   "name": "homeworks",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://fanur56.github.io/task-by-ignat",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
@@ -47,6 +48,5 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
-  },
-  "homepage": "https://fanur56.github.io/task-by-ignat"
+  }
 }
