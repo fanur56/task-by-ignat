@@ -1,12 +1,11 @@
 import React from 'react'
 
-function Header() {
+function Junior() {
     return (
         <div>
-            add NavLinks
-
+            Junior Page
         </div>
     )
 }
 
-export default Header
+export default Junior
