@@ -5,11 +5,11 @@
 
 
 .item {
-    color: #aea3a3;
+    color: white;
     text-decoration: none;
     padding: 3px;
     margin: 3px 5px;
     border: solid 2px black;
     border-radius: 15px;
-    background-color: #09528f;
+    background-color: black;
 }
