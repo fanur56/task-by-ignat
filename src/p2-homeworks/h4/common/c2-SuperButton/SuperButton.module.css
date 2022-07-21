@@ -111,6 +111,6 @@
     display: none;
 }
 
-.red:-webkit-details-marker {
+.red::-webkit-details-marker {
     display: none;
 }
