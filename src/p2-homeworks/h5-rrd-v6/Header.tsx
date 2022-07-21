@@ -6,19 +6,19 @@ function Header() {
     return (
         <div className={s.header}>
 
-            <NavLink to={"pre-junior"}>
+            <NavLink to={"/pre-junior"}>
                 <div className={s.item}>
                     Pre-junior
                 </div>
             </NavLink>
 
-            <NavLink to={"junior"}>
+            <NavLink to={"/junior"}>
                 <div className={s.item}>
                     Junior
                 </div>
             </NavLink>
 
-            <NavLink to={"junior-plus"}>
+            <NavLink to={"/junior-plus"}>
                 <div className={s.item}>
                     Junior-plus
                 </div>
